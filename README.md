@@ -1,5 +1,5 @@
 # Jarvis Desktop Assistant with LLM
-![Banner](![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ffcc70,100:4158d0&height=200&section=header&text=My%20Awesome%20Project&fontSize=40&fontColor=fff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ffcc70,100:4158d0&height=200&section=header&text=Jarvis%20Desktop%20Assistant&fontSize=40&fontColor=fff)
 )
 
 ### Badges
