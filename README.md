@@ -1,45 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,00ff7f,100:6a5acd,00ff7f&height=200&section=header&text=My+Awesome+Project&fontSize=40&fontColor=fff)
-======================
-# My Awesome Project
-======================
-[![Stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)](https://github.com/your-username/your-repo-name/stargazers)
-[![Forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)](https://github.com/your-username/your-repo-name/network/members)
+![https://capsule-render.vercel.app/api?type=starry&color=auto&height=250&section=header&text=https%3A%2F%2Fgithub.com%2FPruthviraj141%2FJarvis-Desktop-Assistant-with-LLM&fontSize=45&fontAlignY=40](https://capsule-render.vercel.app/api?type=starry&color=auto&height=250&section=header&text=https%3A%2F%2Fgithub.com%2FPruthviraj141%2FJarvis-Desktop-Assistant-with-LLM&fontSize=45&fontAlignY=40)
+[![GitHub Stars](https://img.shields.io/github/stars/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM?style=for-the-badge)](https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM)
+[![GitHub Forks](https://img.shields.io/github/forks/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM?style=for-the-badge)](https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM)
+[![GitHub License](https://img.shields.io/github/license/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM?style=for-the-badge)](https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM)
+[![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)](https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM)
+### ✨ Project Title
+Jarvis Desktop Assistant with LLM is an AI-powered desktop assistant built using Python, utilizing speech recognition and text-to-speech capabilities to interact with users. It integrates with the Groq LLM for advanced reasoning and task execution.
 
-## 📦 Installation
-To install the required packages, run the following command:
-```bash
-pip install -r requirements.txt
-```
-Please ensure you have the necessary dependencies installed, including `speech_recognition`, `pyttsx3`, and `selenium`.
+### 📝 Description
+This project aims to create a personalized desktop assistant that can understand voice commands, perform tasks, and provide information to users. It leverages various libraries, including `speech_recognition`, `pyttsx3`, `pyautogui`, and `pytesseract`, to achieve its functionality.
 
-## 🚀 Usage
-To start the J.A.R.V.I.S. assistant, simply execute the `main.py` file:
-```bash
-python main.py
-```
-This will initiate the J.A.R.V.I.S. system, and you can begin interacting with it using voice commands.
+### 🚀 Getting Started
+1. Clone the repository: `git clone https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM.git`
+2. Install the required libraries: `pip install -r requirements.txt`
+3. Set up the Groq LLM API key in the `GROQ_API_KEY` variable.
+4. Run the application: `python main.py`
 
-## ⚡ Features
-The following features are available in J.A.R.V.I.S.:
-| Feature | Description | Status |
-| --- | --- | --- |
-| Speech Recognition | Recognize voice commands | ✅ |
-| Text-to-Speech | Synthesize text into speech | ✅ |
-| Web Automation | Automate web browsing using Selenium | ✅ |
-| System Control | Control system functions, such as opening apps and files | ✅ |
-| Groq LLM Integration | Integrate with the Groq LLM for advanced reasoning | ✅ |
+### 🛠️ Tech Stack
+<a href="https://skillicons.dev/icons?i=py"><img src="https://skillicons.dev/icons?i=py" /></a>
+<a href="https://skillicons.dev/icons?i=js"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://skillicons.dev/icons?i=html"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://skillicons.dev/icons?i=css"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="https://skillicons.dev/icons?i=react"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://skillicons.dev/icons?i=docker"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://skillicons.dev/icons?i=kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+<a href="https://skillicons.dev/icons?i=aws"><img src="https://skillicons.dev/icons?i=aws" /></a>
+<a href="https://skillicons.dev/icons?i=gcp"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+<a href="https://skillicons.dev/icons?i=azure"><img src="https://skillicons.dev/icons?i=azure" /></a>
+<a href="https://skillicons.dev/icons?i=githubactions"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+<a href="https://skillicons.dev/icons?i=jest"><img src="https://skillicons.dev/icons?i=jest" /></a>
 
-## 🛠️ Tech Stack
-The J.A.R.V.I.S. project utilizes the following technologies:
-<i class="icon-brackets"></i> Python 3.x
-<i class="icon-python"></i> SpeechRecognition
-<i class="icon-python"></i> pyttsx3
-<i class="icon-python"></i> Selenium
-<i class="icon-python"></i> Groq LLM
-For more information on the tech stack, please visit the [Skillicons](https://skillicons.dev) website.
+### ⚡ Features
+*   Speech recognition and text-to-speech capabilities
+*   Integration with Groq LLM for advanced reasoning and task execution
+*   Ability to perform various tasks, such as:
+    *   Opening applications and URLs
+    *   Searching the internet
+    *   Creating and deleting files
+    *   Typing text and pressing keys
+    *   Taking screenshots
+    *   Playing videos and songs on YouTube and Spotify
+*   Customizable and extensible architecture
 
-## 🤝 Contributing
-Contributions are welcome and encouraged! To contribute to the J.A.R.V.I.S. project, please fork the repository and submit a pull request with your changes.
-Ensure you have the necessary dependencies installed and have tested your code thoroughly before submitting a pull request.
+### 🤝 Contributing
+Contributions are welcome and appreciated. To contribute, please fork the repository, make your changes, and submit a pull request.
 
-Note: Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.
+### 🛡️ License
+This project is licensed under the [MIT License](https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM/blob/main/LICENSE).
