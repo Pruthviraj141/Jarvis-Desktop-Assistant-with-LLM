@@ -1,56 +1,61 @@
-# <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/banner.png" alt="Banner">
-# J.A.R.V.I.S. Assistant
-=====================================
+# ![Banner](https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/example-banner.png)
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)](https://github.com/your-username/your-repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo?style=social)](https://github.com/your-username/your-repo/network/members)
-[![License](https://img.shields.io/github/license/your-username/your-repo)](https://github.com/your-username/your-repo/blob/main/LICENSE)
+### Jarvis Desktop Assistant with LLM
+A cutting-edge, AI-powered desktop assistant built with Python, utilizing the Groq LLM for advanced reasoning and task automation.
 
-## 📦 Installation
-To install the required libraries and dependencies, run the following command:
-```bash
-pip install -r requirements.txt
-```
-Make sure to replace `requirements.txt` with the actual file containing the dependencies.
+### Badges
+![Language](https://img.shields.io/badge/language-python-blue)
+![Stars](https://img.shields.io/github/stars/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM?style=social)
+![Forks](https://img.shields.io/github/forks/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM?style=social)
+![License](https://img.shields.io/github/license/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM)
 
-## 🚀 Usage
-To start the J.A.R.V.I.S. assistant, simply run the `main.py` file:
-```bash
-python main.py
-```
-This will start the assistant and make it available for use.
+### Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tech Stack](#tech-stack)
+- [Demo](#demo)
+- [Contributing](#contributing)
+- [License](#license)
 
-## ⚡ Features
-The following features are available in the J.A.R.V.I.S. assistant:
+### Introduction
+Jarvis is an AI-powered desktop assistant designed to make your life easier. With its advanced LLM capabilities, Jarvis can understand and execute complex tasks, from simple web searches to playing music on Spotify.
+
+### Features
+The following features are available in Jarvis:
 | Feature | Description | Status |
 | --- | --- | --- |
-| Speech Recognition | Recognize speech and execute commands | ✅ |
-| Text-to-Speech | Convert text to speech | ✅ |
-| Web Automation | Automate web browsing and interactions | ✅ |
-| System Control | Control system settings and features | ✅ |
-| LLM Integration | Integrate with a large language model for advanced tasks | ✅ |
+| Speech Recognition | Recognize voice commands | ✅ |
+| Text-to-Speech | Respond to voice commands | ✅ |
+| Web Automation | Automate web tasks | ✅ |
+| System Automation | Automate system tasks | ✅ |
+| LLM Integration | Utilize the Groq LLM for advanced reasoning | ✅ |
 
-## 🛠️ Tech Stack
-The J.A.R.V.I.S. assistant uses the following technologies:
-* **Python** as the primary programming language
-* **SpeechRecognition** for speech recognition
-* **PyTTSX3** for text-to-speech conversion
-* **Selenium** for web automation
-* **PyAutoGUI** for system control
-* **Groq** for LLM integration
-* <img src="https://skillicons.dev/icons?i=python" alt="Python">
-* <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium">
-* <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch">
+### Installation
+To install Jarvis, follow these steps:
+1. Clone the repository: `git clone https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM.git`
+2. Install the required libraries: `pip install -r requirements.txt`
+3. Configure the Groq LLM API key: `GROQ_API_KEY = "YOUR_API_KEY"`
 
-## 📜 Demo/Screenshots
-A sample screenshot of the J.A.R.V.I.S. assistant in action can be found [here](https://raw.githubusercontent.com/your-username/your-repo/main/screenshot.png).
+### Usage
+To use Jarvis, follow these steps:
+1. Run the application: `python main.py`
+2. Say "Jarvis wake up" to activate the assistant
+3. Give voice commands to execute tasks
 
-## 🤝 Contributing
-To contribute to the J.A.R.V.I.S. assistant, please follow these steps:
-1. Fork the repository
-2. Create a new branch for your feature or bug fix
-3. Commit your changes and push them to the new branch
-4. Create a pull request to merge your branch into the main repository
+### Tech Stack
+Jarvis is built using the following technologies:
+<img src="https://skillicons.dev/icons?i=python,pyttsx3,speechrecognition,pyautogui,pytesseract,selenium" />
 
-## 📜 License
-The J.A.R.V.I.S. assistant is licensed under the [MIT License](https://github.com/your-username/your-repo/blob/main/LICENSE).
+### Demo
+![Demo](https://via.placeholder.com/800x400.png?text=Jarvis+Demo)
+
+### Contributing
+To contribute to Jarvis, follow these steps:
+1. Fork the repository: `git fork https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM.git`
+2. Make changes and commit: `git commit -m "Your changes"`
+3. Create a pull request: `git pull-request`
+
+### License
+Jarvis is licensed under the MIT License. See [LICENSE](https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM/blob/main/LICENSE) for more information.
