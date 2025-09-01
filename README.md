@@ -1,4 +1,3 @@
-```markdown
 ![Animated Banner](https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=https%3A%2F%2Fgithub.com%2FPruthviraj141%2FJarvis-Desktop-Assistant-with-LLM&fontSize=45&fontAlignY=40&animation=slideIn)
 
 # ✨ Jarvis Desktop Assistant with LLM
@@ -51,4 +50,5 @@ Contributions are welcome! Please create a new issue or submit a pull request wi
 ## 🛡️ License
 This project is licensed under the [MIT License](https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM/blob/main/LICENSE).
 
-```
+
+
