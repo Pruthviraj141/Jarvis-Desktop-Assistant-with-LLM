@@ -1,80 +1,56 @@
+# <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/banner.png" alt="Banner">
 # J.A.R.V.I.S. Assistant
-========================
-## Overview
-J.A.R.V.I.S. is a voice-controlled assistant designed to perform various tasks on a Windows PC. It uses speech recognition and text-to-speech synthesis to interact with the user. The assistant can execute commands, search the web, play music and videos, and perform other tasks.
+=====================================
 
-## Features
-* Voice-controlled interface
-* Speech recognition and text-to-speech synthesis
-* Execute commands (e.g., open apps, search the web, play music and videos)
-* Interact with the user through a graphical user interface (GUI)
-* Log user interactions and errors
+[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)](https://github.com/your-username/your-repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo?style=social)](https://github.com/your-username/your-repo/network/members)
+[![License](https://img.shields.io/github/license/your-username/your-repo)](https://github.com/your-username/your-repo/blob/main/LICENSE)
 
-## Requirements
-* Python 3.x
-* SpeechRecognition library
-* pyttsx3 library
-* pyautogui library
-* pyperclip library
-* win32gui library
-* win32process library
-* win32con library
-* tkinter library
-* selenium library (for web automation)
-* webdriver_manager library (for web automation)
-* Groq library (for AI-powered reasoning engine)
-* Tesseract-OCR library (for optical character recognition)
-
-## Installation
-To install the required libraries, run the following commands:
+## 📦 Installation
+To install the required libraries and dependencies, run the following command:
 ```bash
-pip install SpeechRecognition
-pip install pyttsx3
-pip install pyautogui
-pip install pyperclip
-pip install pywin32
-pip install selenium
-pip install webdriver-manager
-pip install groq
-pip install pytesseract
+pip install -r requirements.txt
 ```
-Additionally, you need to install the Tesseract-OCR engine on your system. You can download it from the official GitHub repository: <https://github.com/UB-Mannheim/tesseract/wiki>
+Make sure to replace `requirements.txt` with the actual file containing the dependencies.
 
-## Usage
-To run J.A.R.V.I.S., simply execute the Python script. The assistant will start listening for voice commands. You can say "Jarvis wake up" to activate the assistant, and "Jarvis sleep" to put it to sleep. To exit the assistant, say "exit" or "quit".
+## 🚀 Usage
+To start the J.A.R.V.I.S. assistant, simply run the `main.py` file:
+```bash
+python main.py
+```
+This will start the assistant and make it available for use.
 
-## Commands
-J.A.R.V.I.S. supports the following commands:
-* `open target="<app_name_or_URL>"`
-* `search query="<search_terms>"`
-* `create path="<full_path>" content="<text_to_write>"`
-* `delete path="<full_path>"`
-* `focus title="<exact_window_title>"`
-* `type text="<text_to_type>"`
-* `press key="<key_name>"`
-* `hotkey keys="<key1>+<key2>"`
-* `click`
-* `wait duration="<seconds>"`
-* `screenshot`
-* `speak text="<text_to_say>"`
-* `scroll amount="<pixels>"`
-* `click_text text="<exact_text>"`
-* `web_search_and_play query="<search_terms>"`
-* `spotify_search_and_play query="<search_terms>"`
+## ⚡ Features
+The following features are available in the J.A.R.V.I.S. assistant:
+| Feature | Description | Status |
+| --- | --- | --- |
+| Speech Recognition | Recognize speech and execute commands | ✅ |
+| Text-to-Speech | Convert text to speech | ✅ |
+| Web Automation | Automate web browsing and interactions | ✅ |
+| System Control | Control system settings and features | ✅ |
+| LLM Integration | Integrate with a large language model for advanced tasks | ✅ |
 
-Note: This is not an exhaustive list, and you can extend the command set by modifying the `VALID_ACTIONS` set in the code.
+## 🛠️ Tech Stack
+The J.A.R.V.I.S. assistant uses the following technologies:
+* **Python** as the primary programming language
+* **SpeechRecognition** for speech recognition
+* **PyTTSX3** for text-to-speech conversion
+* **Selenium** for web automation
+* **PyAutoGUI** for system control
+* **Groq** for LLM integration
+* <img src="https://skillicons.dev/icons?i=python" alt="Python">
+* <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium">
+* <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch">
 
-## GUI
-The GUI displays the current status of the assistant, including the listening status, processing status, and any errors that occur. The GUI also displays a history of user interactions.
+## 📜 Demo/Screenshots
+A sample screenshot of the J.A.R.V.I.S. assistant in action can be found [here](https://raw.githubusercontent.com/your-username/your-repo/main/screenshot.png).
 
-## Logging
-J.A.R.V.I.S. logs user interactions and errors to a file named `jarvis.log`. The log file is stored in the same directory as the Python script.
+## 🤝 Contributing
+To contribute to the J.A.R.V.I.S. assistant, please follow these steps:
+1. Fork the repository
+2. Create a new branch for your feature or bug fix
+3. Commit your changes and push them to the new branch
+4. Create a pull request to merge your branch into the main repository
 
-## Troubleshooting
-If you encounter any issues with J.A.R.V.I.S., check the log file for error messages. You can also try restarting the assistant or reinstalling the required libraries.
-
-## Contributing
-J.A.R.V.I.S. is an open-source project, and contributions are welcome. If you have any ideas for new features or improvements, please submit a pull request or issue on the GitHub repository.
-
-## License
-J.A.R.V.I.S. is licensed under the MIT License. See the LICENSE file for details.
+## 📜 License
+The J.A.R.V.I.S. assistant is licensed under the [MIT License](https://github.com/your-username/your-repo/blob/main/LICENSE).
