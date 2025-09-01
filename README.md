@@ -1,64 +1,43 @@
-**🌟 Jarvis Desktop Assistant with LLM Readme 🌟**
-======================================================
 
-### 📦 Installation
+[![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=https%3A%2F%2Fgithub.com%2FPruthviraj141%2FJarvis-Desktop-Assistant-with-LLM&fontSize=40&fontColor=fff)](#header)
 
-To get started with Jarvis, you'll need to clone the repository and install the necessary dependencies.
-
-```bash
-git clone https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM.git
-cd Jarvis-Desktop-Assistant-with-LLM
-pip install -r requirements.txt
-```
-
-### 🚀 Usage
-
-1. Run the script using `python main.py` to start the Jarvis assistant.
-2. Use voice commands to interact with the assistant.
-3. Type `jarvis sleep` to put the assistant to sleep, and `jarvis wake up` to wake it up again.
+## Jarvis Desktop Assistant with LLM
+Personal AI Assistant for Windows Desktop
 
 ### ⚡ Features
 
 | Feature | Description |
 | --- | --- |
-| 🎤 Speech Recognition | Recognizes spoken commands and executes corresponding actions |
-| 📄 Text-to-Speech | Converts text into spoken words |
-| 📊 System Context | Displays system context, including user, active window, and current working directory |
-| 📁 File Management | Creates, deletes, and moves files and directories |
-| 📊 Web Search | Searches the web using Google |
-| 🎵 Web Automation | Automates tasks on the web using Selenium |
-| 🔮 LLM Integration | Uses a large language model to process and execute complex commands |
+| 📺 Web Automation | Automate tasks on web applications like YouTube, Spotify, and more |
+| 📚 Screen Scraping | Extract information from the screen using OCR |
+| 🗣️ Speech Recognition | Recognize voice commands and perform actions |
+| 🤖 LLM Integration | Leverage Large Language Models for advanced functionality |
 
 ### 🛠️ Tech Stack
 
-#### Dependencies
+| Tech | Description |
+| --- | --- |
+| <img src="https://skillicons.dev/icons?i=python" width="40" height="40"> | Python for scripting and automation |
+| <img src="https://skillicons.dev/icons?i=pyttsx3" width="40" height="40"> | Text-to-Speech Library for voice synthesis |
+| <img src="https://skillicons.dev/icons?i=pyautogui" width="40" height="40"> | Cross-platform GUI automation library |
+| <img src="https://skillicons.dev/icons?i=win32gui" width="40" height="40"> | Windows-specific GUI automation library |
+| <img src="https://skillicons.dev/icons?i=webdriver-manager" width="40" height="40"> | WebDriver Manager for Selenium automation |
+| <img src="https://skillicons.dev/icons?i=groq" width="40" height="40"> | Groq LLM for advanced functionality |
 
-* `speech_recognition`
-* `pyttsx3`
-* `pyautogui`
-* `pyscreenshot`
-* `pyperclip`
-* `pytesseract`
-* `selenium`
-* `webdriver-manager`
-* `groq`
+### 📦 Installation
 
-#### Frameworks/Libraries
+1. Clone the repository: `git clone https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Configure Groq LLM API key: `GROQ_API_KEY="your_api_key_here"`
 
-* `tkinter` for GUI
-* `pytesseract` for OCR
-* `pyautogui` for GUI automation
+### 🚀 Usage
+
+1. Run the assistant: `python main.py`
+2. Talk to J.A.R.V.I.S. using voice commands
 
 ### 🤝 Contributing
 
-If you'd like to contribute to Jarvis, please create a pull request with your suggested changes.
+Contributions are welcome! Please create a pull request or open an issue to discuss your ideas.
 
-### 📈 Badges
-
-[![Stars](https://img.shields.io/github/stars/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM?style=social)](https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM)
-[![Forks](https://img.shields.io/github/forks/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM?style=social)](https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM)
-
-Capsule Render
-```markdown
-![Jarvis Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,ff1493,100:ff7f50,ff1493&height=200&section=header&text=https%3A%2F%2Fgithub.com%2FPruthviraj141%2FJarvis-Desktop-Assistant-with-LLM&fontSize=40&fontColor=fff)
-```
+[![star](https://img.shields.io/github/stars/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM?style=social)](https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM)
+[![fork](https://img.shields.io/github/forks/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM?style=social)](https://github.com/Pruthviraj141/Jarvis-Desktop-Assistant-with-LLM)
