@@ -1,5 +1,6 @@
 # Jarvis Desktop Assistant with LLM
-![Banner](https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/example-banner.png)
+![Banner](![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ffcc70,100:4158d0&height=200&section=header&text=My%20Awesome%20Project&fontSize=40&fontColor=fff)
+)
 
 ### Badges
 
@@ -55,3 +56,4 @@ This project is licensed under the [MIT License](https://github.com/Pruthviraj14
 * [Selenium](https://www.selenium.dev/) for web automation
 * [Pyttsx3](https://github.com/nateshmbhat/pyttsx3) for text-to-speech functionality
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition) for speech recognition functionality
+
